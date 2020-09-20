@@ -157,3 +157,10 @@ Meta:
 ## Various Scientific Papers
 
 A [collection](docs/papers.md) of scientific papers somewhat related to Mobile Ad-Hoc Mesh Routing.
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
